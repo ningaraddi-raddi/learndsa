@@ -1,0 +1,4 @@
+if division is happening than the time complexiety is logerithmic 
+if division is by 10 than its log base 10 of N
+if division is by 2 than its log base 2 of N
+if the division is by 5 than its log base 5 of N
